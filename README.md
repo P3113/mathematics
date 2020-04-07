@@ -15,7 +15,7 @@
     * [Math Webdemo](https://webdemo.myscript.com/views/math/index.html#)
 * LaTeX из изображения (скриншота):
     * [Mathpix Snip](https://mathpix.com/)
-* Графики
+* Построение графиков онлайн:
     * [GeoGebra](https://www.geogebra.org/)
     * [Polar Coordinates by Jim](https://www.desmos.com/calculator/ms3eghkkgz)
 
