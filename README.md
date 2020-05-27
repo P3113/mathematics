@@ -12,12 +12,12 @@
 ## Типовые расчеты
 
 * Рисуем математические формулы и получаем LaTeX (и не только):
-    * [Math Webdemo](https://webdemo.myscript.com/views/math/index.html#)
+ * [Math Webdemo](https://webdemo.myscript.com/views/math/index.html#)
 * LaTeX из изображения (скриншота):
-    * [Mathpix Snip](https://mathpix.com/)
+ * [Mathpix Snip](https://mathpix.com/)
 * Построение графиков онлайн:
-    * [GeoGebra](https://www.geogebra.org/)
-    * [Polar Coordinates by Jim](https://www.desmos.com/calculator/ms3eghkkgz)
+ * [GeoGebra](https://www.geogebra.org/)
+ * [Polar Coordinates by Jim](https://www.desmos.com/calculator/ms3eghkkgz)
 
 ### Типовой расчет 3 модуль
 
@@ -27,4 +27,8 @@
 
 ### Типовой расчет 4 модуль
 
-Информация скоро появится.
+* Пользуемся инструментами для работы с третьим типовым расчетом.
+* Построение 3D графиков онлайн:
+ * [GeoGebra 3D](https://www.geogebra.org/3d)
+ * [CalcPlot3D](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
+ * [Desmos 3D](https://www.desmos.com/calculator/nqom2ih05g?lang=ru)
