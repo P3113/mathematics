@@ -4,10 +4,10 @@
 
 # Содержание
 
-* [Метематика](mathematics "Метематика")
-    * [Типовые расчеты](mathematics "Типовые расчеты")
-        * [Типовой расчет 3 модуль](mathematics/tree/master/Mathematical%20calculation%203 "Типовой расчет 3 модуль")
-		* [Типовой расчет 4 модуль](mathematics/tree/master/Mathematical%20calculation%204 "Типовой расчет 4 модуль")
+* [Метематика](https://github.com/P3113/mathematics "Метематика")
+    * [Типовые расчеты](https://github.com/P3113/mathematics "Типовые расчеты")
+        * [Типовой расчет 3 модуль](https://github.com/P3113/mathematics/tree/master/Mathematical%20calculation%203 "Типовой расчет 3 модуль")
+		* [Типовой расчет 4 модуль](https://github.com/P3113/mathematics/tree/master/Mathematical%20calculation%204 "Типовой расчет 4 модуль")
 
 ## Типовые расчеты
 
